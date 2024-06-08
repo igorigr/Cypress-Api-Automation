@@ -1,0 +1,11 @@
+{
+    "create": {
+    
+            "title": "Product A",
+            "price": 10,
+            "description": "Product Description A",
+            "categoryId": 1,
+            "images": ["https://placeimg.com/640/480/any"]
+            
+    }
+}

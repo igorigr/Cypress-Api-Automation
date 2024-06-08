@@ -1,0 +1,11 @@
+{
+    "update": {
+
+            "id": 1,
+            "body": {
+                "title": "Product B",
+                "price": 100
+            }
+    }
+    
+}
